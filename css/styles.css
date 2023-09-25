@@ -1,0 +1,52 @@
+body {
+    background-color: #28282B;
+}
+
+header {
+    height: 8vh;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 2.75em;
+    font-family: lucida bright;
+    /* Silver text effect */
+    color: transparent;
+    background-image: linear-gradient(
+       to top,
+        #FFFFFF 0%,
+        #BFBFBF 70%,
+        #808080 80%,
+        #BFBFBF 85%,
+        #FFFFFF 95%
+    );
+    -webkit-background-clip: text;
+    background-clip: text; 
+}
+
+hr {
+    background-image: linear-gradient(
+        to top,
+        #FFFFFF 0%,
+        #BFBFBF 70%,
+        #808080 80%,
+        #BFBFBF 85%,
+        #FFFFFF 95%
+    );
+    background-clip: border-box;
+    height: 3px;
+}
+
+#test {
+    background-image: repeating-linear-gradient(
+        135deg,
+        #F2C744 0%,
+        #D99E32 7.5%,
+        #8C5511 15.0%,
+        #D99E32 17.5%,
+        #F2C744 22.5%
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 400 400" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Backgrou" vectornator:layerName="Backgrou">
+<path d="M0 0L0 400L400 400L400 0L0 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<clipPath id="ArtboardFrame">
+<rect height="400" width="400" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Major" vectornator:layerName="Major" visibility="hidden">
+<g opacity="1">
+<path d="M0 200L140 240L200 200L140 160L0 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M200 200L0 200" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+</g>
+<g opacity="1">
+<path d="M200 400L240 260L200 200L160 260L200 400Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M200 200L200 400" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+</g>
+<g opacity="1">
+<path d="M400 200L260 160L200 200L260 240L400 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M400 200L200 200" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+</g>
+<g opacity="1">
+<path d="M200 0L160 140L200 200L240 140L200 0Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M200 0L200 200" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+</g>
+</g>
+<g id="Minor" vectornator:layerName="Minor">
+<path d="M200 200L140 160L100 100L160 140L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 5"/>
+<path d="M200 200L240 140L300 100L260 160L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 6"/>
+<path d="M200 200L260 240L300 300L240 260L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 7"/>
+<path d="M200 200L160 260L100 300L140 240L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 8"/>
+<path d="M200 200L180 160L200 120L220 160L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 9"/>
+<path d="M200 200L240 180L280 200L240 220L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 10"/>
+<path d="M200 200L220 240L200 280L180 240L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 11"/>
+<path d="M200 200L160 220L120 200L160 180L200 200Z" fill="none" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 12"/>
+</g>
+<g id="Color" vectornator:layerName="Color">
+<path d="M200 0L160 140L200 200L200 0Z" fill="#880808" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M400 200L260 160L200 200L400 200Z" fill="#880808" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M200 400L240 260L200 200L200 400Z" fill="#880808" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 200L140 240L200 200L0 200Z" fill="#880808" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M200 0L240 140L200 200L200 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M400 200L260 240L200 200L400 200Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M200 400L160 260L200 200L200 400Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 200L140 160L200 200L0 200Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M100 100L140 160L200 200L160 140L100 100Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M300 100L240 140L200 200L260 160L300 100Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M300 300L260 240L200 200L240 260L300 300Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M100 300L140 240L200 200L160 260L100 300Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="M200 200L180 160L200 120L220 160L200 200Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 1"/>
+<path d="M200 200L240 180L280 200L240 220L200 200Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 2"/>
+<path d="M200 200L220 240L200 280L180 240L200 200Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 3"/>
+<path d="M200 200L160 220L120 200L160 180L200 200Z" fill="#fefbec" fill-rule="nonzero" opacity="1" stroke="#000002" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5" vectornator:layerName="曲线 4"/>
+</g>
+</svg>
